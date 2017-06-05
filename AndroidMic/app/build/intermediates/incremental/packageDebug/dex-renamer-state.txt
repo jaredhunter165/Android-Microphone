@@ -1,0 +1,7 @@
+#Thu May 11 00:58:59 EDT 2017
+base.0=C\:\\Users\\Jared\\StudioProjects\\NewMic1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_0f6f3a07c508e0ff7afdb1b1f31015039b366077
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Jared\\StudioProjects\\NewMic1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_4be03ee1cf6e71a3129cde00ddb4290b363952cd\\classes.dex
+base.1=C\:\\Users\\Jared\\StudioProjects\\NewMic1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_4be03ee1cf6e71a3129cde00ddb4290b363952cd
+file.0=C\:\\Users\\Jared\\StudioProjects\\NewMic1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_0f6f3a07c508e0ff7afdb1b1f31015039b366077\\classes.dex

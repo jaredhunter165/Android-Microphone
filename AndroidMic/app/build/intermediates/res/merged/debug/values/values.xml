@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Black">#000</color>
+    <color name="Gray">#a2a5a4</color>
+    <color name="White">#9e1b32</color>
+    <dimen name="padding_large">16dp</dimen>
+    <dimen name="padding_medium">8dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <string name="app_name">NewMic</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_voip">VoipActivity</string>
+    <style name="AppTheme" parent="android:Theme.Light"/>
+</resources>

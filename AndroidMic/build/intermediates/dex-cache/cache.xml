@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jared\StudioProjects\NewMic1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\Jared\StudioProjects\NewMic1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_0f6f3a07c508e0ff7afdb1b1f31015039b366077\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jared\StudioProjects\NewMic1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="391d99c58aa6c4cb753eb1ba57e07d93562be464">
+        <dex dex="C:\Users\Jared\StudioProjects\NewMic1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_4be03ee1cf6e71a3129cde00ddb4290b363952cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jared\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Jared\StudioProjects\NewMic1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_2e2438dcfcd819f84a8b917a44f16e945b1eb18d\classes.dex" />
+    </item>
+
+</items>

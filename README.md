@@ -4,4 +4,4 @@ This project is a continuation of a project I worked on with a small team during
 
 # Current State
 
-Currently I have fairly clear audio being sent and recived by the server application. However there does seem to be a UDP "jitter" effect that creates a constant clicking noise. 
+Currently I have fairly clear audio being sent and recived by the server application. However there does seem to be a UDP "jitter" effect that creates a constant clicking noise.

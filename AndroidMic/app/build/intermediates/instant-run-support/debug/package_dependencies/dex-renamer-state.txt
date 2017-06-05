@@ -1,0 +1,4 @@
+#Thu May 11 00:58:57 EDT 2017
+base.0=C\:\\Users\\Jared\\StudioProjects\\NewMic1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_2e2438dcfcd819f84a8b917a44f16e945b1eb18d
+renamed.0=classes.dex
+file.0=C\:\\Users\\Jared\\StudioProjects\\NewMic1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_2e2438dcfcd819f84a8b917a44f16e945b1eb18d\\classes.dex
